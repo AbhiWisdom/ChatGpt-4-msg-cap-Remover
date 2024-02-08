@@ -6,7 +6,7 @@ ChatGPT Msg Cap Remover is a user script that allows users to use the GPT-4 with
 
 ⚠️ Update 2023.12.25: ChatGPT has enhanced its authentication mechanism. You may encounter the following error message during use: "Our systems have detected unusual activity from your system. Please try again later."
 
-⚠️ Update 2023.12.31: As ChatGPT becomes more productized, OpenAI has implemented stricter limitations. Also, due to personal work commitments and limited time and energy, this project can no longer guarantee to override the usage limits of the GPT-4 model on the ChatGPT web interface. If you are capable, you are welcome to contribute to this project.
+⚠️ Update 2023.12.31: As ChatGPT becomes more productized, OpenAI has implemented stricter limitations. This project can no longer guarantee to override the usage limits of the GPT-4 model on the ChatGPT web interface. 
 
 [Join Telegram](https://t.me/abyproof)
 
