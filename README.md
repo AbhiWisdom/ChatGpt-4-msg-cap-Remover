@@ -8,6 +8,8 @@ ChatGPT Msg Cap Remover is a user script that allows users to use the GPT-4 with
 
 ⚠️ Update 2023.12.31: As ChatGPT becomes more productized, OpenAI has implemented stricter limitations. Also, due to personal work commitments and limited time and energy, this project can no longer guarantee to override the usage limits of the GPT-4 model on the ChatGPT web interface. If you are capable, you are welcome to contribute to this project.
 
+[Join Telegram](https://t.me/abyproof)
+
 ## Installation
 
 1. Install a user script manager, such as [Tampermonkey](https://www.tampermonkey.net/).
