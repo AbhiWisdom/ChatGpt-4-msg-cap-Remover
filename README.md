@@ -1,17 +1,30 @@
-# ChatGPT Msg Cap Remover
+# 🔓 ChatGPT-4 Message Cap Remover
 
-ChatGPT Msg Cap Remover is a user script that allows users to use the GPT-4 without limitations on the ChatGPT web interface
+> Browser extension to remove ChatGPT-4 message cap limitations
 
-🔴 Important Notice: It is recommended not to switch models during a single conversation as it might trigger the message: "The previous model used in this conversation is unavailable. We've switched you to the latest default model," potentially leading to unforeseen repercussions.
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Stars](https://img.shields.io/github/stars/AbhiWisdom/ChatGpt-4-msg-cap-Remover?style=social)](https://github.com/AbhiWisdom/ChatGpt-4-msg-cap-Remover)
 
-⚠️ Update 2023.12.25: ChatGPT has enhanced its authentication mechanism. You may encounter the following error message during use: "Our systems have detected unusual activity from your system. Please try again later."
+## ✨ What It Does
 
-⚠️ Update 2023.12.31: As ChatGPT becomes more productized, OpenAI has implemented stricter limitations. This project can no longer guarantee to override the usage limits of the GPT-4 model on the ChatGPT web interface. 
+Removes the message cap limitation on ChatGPT-4, allowing unlimited conversations without hitting the usage limit.
 
-[Join Telegram](https://t.me/abhibots)
+## 🚀 Installation
 
-## Installation
+1. Download or clone this repository
+2. Open Chrome → `chrome://extensions`
+3. Enable "Developer Mode"
+4. Click "Load Unpacked" → Select the extension folder
+5. Navigate to chat.openai.com and enjoy!
 
-1. Install a user script manager, such as [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [here](https://raw.githubusercontent.com/AbhiWisdom/ChatGpt-4-msg-cap-bypasser/main/uncap.js) to copy and run this script in Tempmonkey .
-3. Once installed, visit [ChatGPT](https://chat.openai.com/) and enjoy using the GPT-4 Msg Cap Remover"!
+## ⚠️ Disclaimer
+
+This tool is for educational purposes only. Use responsibly and in accordance with OpenAI's terms of service.
+
+## 📄 License
+
+MIT License
+
+---
+
+Made with ❤️ by [Abhiraj](https://github.com/AbhiWisdom)
